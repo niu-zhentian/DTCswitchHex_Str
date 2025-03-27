@@ -1,0 +1,10 @@
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\bin\Debug\Studywinform.exe.config
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\bin\Debug\Studywinform.exe
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\bin\Debug\Studywinform.pdb
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\obj\Debug\Studywinform.csproj.AssemblyReference.cache
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\obj\Debug\Studywinform.Form1.resources
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\obj\Debug\Studywinform.Properties.Resources.resources
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\obj\Debug\Studywinform.csproj.GenerateResource.cache
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\obj\Debug\Studywinform.csproj.CoreCompileInputs.cache
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\obj\Debug\Studywinform.exe
+C:\Users\z0048708\Desktop\test\Csharp\Studywinform\Studywinform\obj\Debug\Studywinform.pdb
